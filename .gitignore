@@ -7,3 +7,6 @@ vendor/
 *.pem
 composer.lock
 .php_cs.cache
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
